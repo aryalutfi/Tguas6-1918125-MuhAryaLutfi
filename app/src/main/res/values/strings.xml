@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">WorkManagerPraktikum6</string>
+    <string-array name="nama_kota">
+        <item>Makassar</item>
+        <item>Palu</item>
+        <item>Gorontalo</item>
+        <item>Kendari</item>
+        <item>Malang</item>
+    </string-array>
+</resources>
